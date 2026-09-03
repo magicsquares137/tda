@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- paper release: large / regenerable artifacts ---
+*.pt
+*.bin
+runs/
+data/
+ma_dynamics/runs/

@@ -1,0 +1,12 @@
+# Core
+torch>=2.2
+numpy>=1.24
+# Open-model (Pythia) analyses
+transformers>=4.40
+datasets>=2.18
+huggingface_hub>=0.20
+# Figures
+matplotlib>=3.7
+scipy>=1.10
+# Data prep (GPT-2 BPE)
+tiktoken>=0.6
